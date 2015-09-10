@@ -8,7 +8,7 @@
      "url"			: "https://github.com/ogerly/nodebb-plugin-embed-videos.git"
    },					
 	"nbbpm": {
-    "compatibility": "0.7.3"
+    "compatibility": "0.8.x"
   },
   "keywords": [
     "nodebb",
